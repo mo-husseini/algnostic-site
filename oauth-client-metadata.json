@@ -1,6 +1,6 @@
 {
   "client_id": "https://algnostic.mohusseini.com/oauth-client-metadata.json",
-  "client_name": "Algnostic",
+  "client_name": "FeedClassic",
   "client_uri": "https://algnostic.mohusseini.com",
   "application_type": "native",
   "redirect_uris": ["com.mohusseini.algnostic:/oauth/callback"],
