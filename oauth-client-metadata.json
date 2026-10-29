@@ -6,7 +6,7 @@
   "redirect_uris": ["com.mohusseini.algnostic:/oauth/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
-  "scope": "atproto transition:generic transition:chat.bsky",
+  "scope": "atproto transition:generic transition:chat.bsky transition:email",
   "token_endpoint_auth_method": "none",
   "dpop_bound_access_tokens": true
 }
